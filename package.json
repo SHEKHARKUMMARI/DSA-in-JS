@@ -1,0 +1,22 @@
+{
+  "name": "dsa-in-js",
+  "version": "1.0.0",
+  "main": "classes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SHEKHARKUMMARI/DSA-in-JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SHEKHARKUMMARI/DSA-in-JS/issues"
+  },
+  "homepage": "https://github.com/SHEKHARKUMMARI/DSA-in-JS#readme",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}

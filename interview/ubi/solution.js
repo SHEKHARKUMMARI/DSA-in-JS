@@ -41,4 +41,4 @@ const maxProfit = (arr) => {
   return profit;
 };
 
-console.log(maxPrifit(arr));
+console.log(maxProfit(arr));

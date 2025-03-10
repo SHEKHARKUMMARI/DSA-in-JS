@@ -1,0 +1,1 @@
+A polyfill is a piece of code (usually JavaScript) that provides modern functionality to older browsers or environments that do not natively support it. It "fills in the gaps" by implementing missing features.
